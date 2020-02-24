@@ -1,3 +1,5 @@
+/*TIPP code done by M.Halaby and M.Forge
+
 /*
  execute as :
  .x TIPP_code.C++("training_23Nedd_TIPP_Zm2_Shift.root",1, 12, 12 )              for Det 12 strip F12
